@@ -1,0 +1,31 @@
+_repo: Sylvia-s-Marriage--A-Novel_5807
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sinclair, Upton
+    aliases:
+    - Sinclair, Upton Beall
+    - Fitch, Clarke
+    - Garrison, Frederick
+    birthdate: 1878
+    deathdate: 1968
+    gutenberg_agent_id: '88'
+    url: http://www.gutenberg.org/2009/agents/88
+    wikipedia: http://en.wikipedia.org/wiki/Upton_Sinclair
+description: Sylvia makes her second appearance as Sinclair's protagonist in this
+  novel of marital hardships. The book is divided into her three roles as a mother,
+  wife and rebel.
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5807'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Sylvia''s Marriage: A Novel'
+url: http://www.gutenberg.org/ebooks/5807
