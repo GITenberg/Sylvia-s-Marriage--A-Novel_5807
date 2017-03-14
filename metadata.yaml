@@ -1,5 +1,8 @@
 _repo: Sylvia-s-Marriage--A-Novel_5807
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sinclair, Upton
@@ -15,6 +18,8 @@ creator:
 description: Sylvia makes her second appearance as Sinclair's protagonist in this
   novel of marital hardships. The book is divided into her three roles as a mother,
   wife and rebel.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5807#Sylvia-s-Marriage--A-Novel
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
